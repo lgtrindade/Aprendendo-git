@@ -14,3 +14,12 @@ ver conteudo da pasta
 
 ----------------------------------
 passo a passo para enviar um commit para o repositorio com comandos
+
+1° - Encontrar a pasta;
+2° - Fazer um git clone "shift + insert"
+3° - Navegar com cd ou ls até a pasta do git
+4° - Dar um git status (para ver o estado inicial)
+5° - depois dar um git add <file>
+6° - Posteriormente dar um git status (para ver se deu new file)
+7° - Dar um git commit -m 'texto'
+8° - Dar git push
