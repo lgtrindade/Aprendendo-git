@@ -1,0 +1,13 @@
+Lucas.Trindade
+	DEV
+
+
+----- Comandos basicos git e bash
+como navegar entre pastas dentro do gitbash
+	** entrar na pasta
+		cd /c/lucas.trindade/dev
+	** voltar nivel
+		cd ..
+
+ver conteudo da pasta
+	* ls
