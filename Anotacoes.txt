@@ -22,4 +22,4 @@ passo a passo para enviar um commit para o repositorio com comandos
 5° - depois dar um git add <file>
 6° - Posteriormente dar um git status (para ver se deu new file)
 7° - Dar um git commit -m 'texto'
-8° - Dar git push
+8° - Dar git push.
