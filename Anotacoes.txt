@@ -23,3 +23,7 @@ passo a passo para enviar um commit para o repositorio com comandos
 6° - Posteriormente dar um git status (para ver se deu new file)
 7° - Dar um git commit -m 'texto'
 8° - Dar git push.
+
+
+git checkout -b <branch_name> - criar um novo branch_name
+git checkout <branch_name> - vai para branch especifica
